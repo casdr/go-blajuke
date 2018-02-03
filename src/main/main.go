@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"os"
 	"net/http"
-	"github.com/casdr/go-blajuke/src/controllers"
+	"../controllers"
 )
 
 func main() {
